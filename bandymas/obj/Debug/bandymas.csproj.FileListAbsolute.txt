@@ -1,0 +1,20 @@
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\bin\Debug\bandymas.exe.config
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\bin\Debug\bandymas.exe
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\bin\Debug\bandymas.pdb
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\obj\Debug\bandymas.csprojAssemblyReference.cache
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\obj\Debug\bandymas.Form1.resources
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\obj\Debug\bandymas.Properties.Resources.resources
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\obj\Debug\bandymas.csproj.GenerateResource.cache
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\obj\Debug\bandymas.csproj.CoreCompileInputs.cache
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\obj\Debug\bandymas.exe
+C:\Users\doman\Desktop\karoliui\bandymas\bandymas\obj\Debug\bandymas.pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\bin\Debug\bandymas.exe.config
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\bin\Debug\bandymas.exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\bin\Debug\bandymas.pdb
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\obj\Debug\bandymas.csprojAssemblyReference.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\obj\Debug\bandymas.Form1.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\obj\Debug\bandymas.Properties.Resources.resources
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\obj\Debug\bandymas.csproj.GenerateResource.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\obj\Debug\bandymas.csproj.CoreCompileInputs.cache
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\obj\Debug\bandymas.exe
+C:\Users\doman\Desktop\paskaitos\2 kursas\2 pusmetis\daugiagyjis programavimas\4 darbas\bandymas\bandymas\obj\Debug\bandymas.pdb
